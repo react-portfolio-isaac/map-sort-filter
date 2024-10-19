@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/static/css/main.820fc682.css",
-    "main.js": "/static/js/main.6e7332a3.js",
-    "index.html": "/index.html",
-    "main.820fc682.css.map": "/static/css/main.820fc682.css.map",
-    "main.6e7332a3.js.map": "/static/js/main.6e7332a3.js.map"
+    "main.css": "/react-portfolio-isaac/map-list-sort/static/css/main.820fc682.css",
+    "main.js": "/react-portfolio-isaac/map-list-sort/static/js/main.03bd088f.js",
+    "index.html": "/react-portfolio-isaac/map-list-sort/index.html",
+    "main.820fc682.css.map": "/react-portfolio-isaac/map-list-sort/static/css/main.820fc682.css.map",
+    "main.03bd088f.js.map": "/react-portfolio-isaac/map-list-sort/static/js/main.03bd088f.js.map"
   },
   "entrypoints": [
     "static/css/main.820fc682.css",
-    "static/js/main.6e7332a3.js"
+    "static/js/main.03bd088f.js"
   ]
 }
