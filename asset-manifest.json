@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/map-sort-filter/static/css/main.820fc682.css",
+    "main.js": "/map-sort-filter/static/js/main.03bd088f.js",
+    "index.html": "/map-sort-filter/index.html",
+    "main.820fc682.css.map": "/map-sort-filter/static/css/main.820fc682.css.map",
+    "main.03bd088f.js.map": "/map-sort-filter/static/js/main.03bd088f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.820fc682.css",
+    "static/js/main.03bd088f.js"
+  ]
+}
