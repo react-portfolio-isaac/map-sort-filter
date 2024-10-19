@@ -1,9 +1,9 @@
 function DessertsList(props) {
-    let sorted = props.data.filter(i => Number(i.calories) < 500)
-    let f = (a,b) => {
-      return b.calories - a.calories;
-    }
-    sorted.sort(f)
+    let sorted = props.data
+              .filter(i => Number(i.calories) < 500)
+              .sort((a,b) => {
+                return b.calories - a.calories;
+              });
     function liList(data) {
       let l = data.map((item) => { return <li>{item.name} - {item.calories}</li> });
       return l;
