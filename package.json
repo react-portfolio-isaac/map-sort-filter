@@ -1,7 +1,8 @@
 {
-    "name": "m1l2-03-exercise-create-a-basic-list-component",
+    "name": "map-list-sort",
+    "homepage": "https://didlie.github.io/react-portfolio-isaac/map-list-sort",
     "version": "0.1.0",
-    "private": true,
+    "private": false,
     "dependencies": {
         "gh": "^2.8.9",
         "react": "^18.2.0",
